@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DataProducer:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataProducer_jar2</output-path>
+    <root id="archive" name="weblogs.jar">
+      <element id="module-output" name="DataProducer" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flume-ng-hbase-sink:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/flume_ng_hbase_sink_jar</output-path>
+    <root id="archive" name="flume-ng-hbase-sink.jar">
+      <element id="module-output" name="flume-ng-hbase-sink" />
+    </root>
+  </artifact>
+</component>
