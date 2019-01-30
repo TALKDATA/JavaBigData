@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestSpark:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestSpark_jar</output-path>
+    <root id="archive" name="TestSpark.jar">
+      <element id="module-output" name="TestSpark" />
+    </root>
+  </artifact>
+</component>
