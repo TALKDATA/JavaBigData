@@ -130,14 +130,7 @@ https://www.willxu.xyz/2019/02/03/project/16%E3%80%81spark-streaming1/
 
 提取码：sh8x 
 
-### 整理不易，打赏鼓励
-**微信**
+### 一起交流
 
-![](http://ww1.sinaimg.cn/large/005BOtkIly1fztcsqtmu4j30360353yh.jpg)         
-
-**支付宝**
-
-![](http://ww1.sinaimg.cn/large/005BOtkIly1fztct24iuqj302z02yglk.jpg)
-
-
-打赏后，我们就是“好朋友”！
+群内有更多相关书籍和资料，欢迎加群，交流大数据。
+![](http://ww1.sinaimg.cn/large/005BOtkIly1g6nnx2yo4jj306m06ymx4.jpg)
