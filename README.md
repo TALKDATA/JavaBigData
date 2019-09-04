@@ -132,5 +132,7 @@ https://www.willxu.xyz/2019/02/03/project/16%E3%80%81spark-streaming1/
 
 ### 一起交流
 
-群内有更多相关书籍和资料，欢迎加群，交流大数据。
+群内有更多相关书籍和资料，欢迎加群，交流大数据。QQ群号码：528040253
+
 ![](http://ww1.sinaimg.cn/large/005BOtkIly1g6nnx2yo4jj306m06ymx4.jpg)
+![](http://ww1.sinaimg.cn/large/005BOtkIly1g6no2gfsumj30mq0if75o.jpg)
