@@ -126,9 +126,9 @@ https://www.willxu.xyz/2019/02/03/project/16%E3%80%81spark-streaming1/
 
 ### 项目配套视频
 
-链接：https://pan.baidu.com/s/1-PQta6SCgps91oFNTkl6Qg 
-
-提取码：sh8x 
+链接：https://pan.baidu.com/s/1Q-XGRjRwyVa0UFSzfbjFdQ 
+提取码：qart 
+如果失效请加群联系群主索要。
 
 ### 一起交流
 
