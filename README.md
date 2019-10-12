@@ -44,9 +44,9 @@ MySQL、Hue、J2EE、websoket、Echarts
 
 所有软件下载地址：
 
-链接：https://pan.baidu.com/s/1aF_VmdXJVIjeB0WzAtfeEQ 
+链接：https://pan.baidu.com/s/18wrxmczkzgoNE2WTZwjPSA 
+提取码：73q8 
 
-提取码：cuao 
 
 ### 项目架构
 图片来自于卡夫卡公司
