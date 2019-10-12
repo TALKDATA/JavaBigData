@@ -1,7 +1,7 @@
 ﻿# Big-Data-Project
 Hadoop2.x、Zookeeper、Flume、Hive、Hbase、Kafka、Spark2.x、SparkStreaming、MySQL、Hue、J2EE、websoket、Echarts
 
-## 项目名称：新闻日志大数据处理系统
+## 项目名称：基于Spark2.x新闻网大数据实时分析可视化系统项目
 
 ### 项目简介
 
@@ -127,12 +127,13 @@ https://www.willxu.xyz/2019/02/03/project/16%E3%80%81spark-streaming1/
 ### 项目配套视频
 
 链接：https://pan.baidu.com/s/1Q-XGRjRwyVa0UFSzfbjFdQ 
+
 提取码：qart 
-如果失效请加群联系群主索要。
 
-### 一起交流
-
-群内有更多相关书籍和资料，欢迎加群，交流大数据。QQ群号码：528040253
+### 群内有更多相关电子书籍和1000G网盘资料
+欢迎加入大数据交流群。
+QQ群号码：528040253
 
 ![](http://ww1.sinaimg.cn/large/005BOtkIly1g6nnx2yo4jj306m06ymx4.jpg)
 ![](http://ww1.sinaimg.cn/large/005BOtkIly1g6no2gfsumj30mq0if75o.jpg)
+![uLIqN4.png](https://s2.ax1x.com/2019/10/12/uLIqN4.png)
