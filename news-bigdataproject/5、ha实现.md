@@ -1,10 +1,6 @@
-﻿---
-title: 第五章：hadoop的高可用配置（HA）
+﻿## 第五章：hadoop的高可用配置（HA）
 date: 2018-12-29 15:52:11
-categories: "用户日志实时与离线分析系统" 
-tags: 
- - 项目
----
+
 
 ### HDFS-HA架构原理介绍
 ![](http://ww1.sinaimg.cn/large/005BOtkIly1fynlvh2aiyj30dp0boac3.jpg)

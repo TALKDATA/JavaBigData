@@ -1,10 +1,6 @@
-﻿---
-title: 第十四章：Spark2.X集群安装与spark on yarn部署
+﻿## 第十四章：Spark2.X集群安装与spark on yarn部署
 date: 2019-1-30 11:30:01
-categories: "用户日志实时与离线分析系统" 
-tags: 
- - 项目
----
+
 
 ### spark学习准备
 1、简介

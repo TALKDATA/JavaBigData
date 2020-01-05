@@ -1,10 +1,6 @@
-﻿---
-title: 第六章：hadoop的HA下的高可用HBase部署
+﻿## 第六章：hadoop的HA下的高可用HBase部署
 date: 2018-12-30 15:52:11
-categories: "用户日志实时与离线分析系统" 
-tags: 
- - 项目
----
+
 
 ### HBase简介与设计
 HBase是一个高可靠、高性能、面向列、可伸缩的分布式存储系统，利用Hbase技术可在廉价PC Server上搭建 大规模非结构化存储集群。底层就是在hdfs一个目录。

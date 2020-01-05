@@ -1,10 +1,6 @@
-﻿---
-title: 第十二章：Hive与Hbase集成
+﻿## 第十二章：Hive与Hbase集成
 date: 2019-1-23 21:30:01
-categories: "用户日志实时与离线分析系统" 
-tags: 
- - 项目
----
+
 
 ### Hive与HBase集成配置
 1、在hive-site.xml文件中配置Zookeeper，hive通过这个参数去连接HBase集群。

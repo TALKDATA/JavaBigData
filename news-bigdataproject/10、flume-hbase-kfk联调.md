@@ -1,10 +1,6 @@
-﻿---
-title: 第十章：Flume+HBase+Kafka集成全流程测试
+﻿## 第十章：Flume+HBase+Kafka集成全流程测试
 date: 2019-1-20 20:30:01
-categories: "用户日志实时与离线分析系统" 
-tags: 
- - 项目
----
+
 
 ### 全流程测试简介
 将完成对前面所有的设计进行测试，核心是进行flume日志的采集、汇总以及发送至kafka消费、hbase保存。

@@ -1,10 +1,6 @@
-﻿---
-title: 第十三章：Cloudera HUE大数据可视化分析
+﻿## 第十三章：Cloudera HUE大数据可视化分析
 date: 2019-1-26 19:30:01
-categories: "用户日志实时与离线分析系统" 
-tags: 
- - 项目
----
+
 
 ### 下载和安装Hue
 版本选择： hue-3.9.0-cdh5.15.0

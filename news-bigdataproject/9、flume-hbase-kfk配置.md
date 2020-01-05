@@ -1,10 +1,6 @@
-﻿---
-title: 第九章：Flume源码修改与HBase+Kafka集成
+﻿## 第九章：Flume源码修改与HBase+Kafka集成
 date: 2019-1-20 11:30:01
-categories: "用户日志实时与离线分析系统" 
-tags: 
- - 项目
----
+
 
 ### 如何修改flume源码？
 因为我们需要在节点1上将flume同时发送至Hbase以及kafka，但是hbase结构需要自定义，所以由flume发送至hbase代码需要进行修改。

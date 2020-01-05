@@ -1,10 +1,6 @@
-﻿---
-title: 第十六章：Spark Streaming实时数据处理
+﻿## 第十六章：Spark Streaming实时数据处理
 date: 2019-2-03 14:30:01
-categories: "用户日志实时与离线分析系统" 
-tags: 
- - 项目
----
+
 
 ### Spark Streaming简介
 本质上就是利用批处理时间间隔来处理一小批的RDD集合。
