@@ -1,139 +1,111 @@
-﻿# Big-Data-Project
-Hadoop2.x、Zookeeper、Flume、Hive、Hbase、Kafka、Spark2.x、SparkStreaming、MySQL、Hue、J2EE、websoket、Echarts
+﻿
+## Java大数据学习之路
 
-## 项目名称：基于Spark2.x新闻网大数据实时分析可视化系统项目
+笔者简介
+TALKDATA，985硕士，2017年开始，零基础非科班转行大数据开发（Java方向），offer：蚂蚁金服、拼多多、华为、远景、华泰等。
 
-### 项目简介
+以下每篇文章和视频都是用心之作。
 
-**目标**
+### 面经贴
 
-1、完成大数据项目的架构设计，安装部署，架构继承与开发、用户可视化交互设计
+[1、大数据开发：春招获蚂蚁、拼多多、华为、远景、华泰等offer][1]
 
-2、完成实时在线数据分析
+[2、转行大数据开发的学习感悟：制定学习计划、如何看书、制作项目][2]
 
-3、完成离线数据分析
+[3、大数据开发和Java后端推荐书籍汇总（图文并茂）][3]
 
-**具体功能**
+[4、蚂蚁金服从面试到实习转正][4]
 
-1）捕获用户浏览日志信息
+[5、如何获得拼多多大数据开发offer][5]
 
-2）实时分析前20名流量最高的新闻话题
+[6、一位非科班同学转行的自白（转行故事）][6]
 
-3）实时统计当前线上已曝光的新闻话题
+### 视频讲解
 
-4）统计哪个时段用户浏览量最高
+视频会在B站不定期更新。
 
-5）报表
+**B站UP主：TALKDATA，欢迎关注、点赞支持。**
 
-### 项目技术点
-Hadoop2.x、Zookeeper、Flume、Hive、Hbase
+最近更新时间：2020年1月5日
 
-Kafka、Spark2.x、SparkStreaming
+#### Java大数据开发面试必看系列
 
-MySQL、Hue、J2EE、websoket、Echarts
+[非科班转行经历、学习和面试技巧][7]  
 
-### 开发工具
+[如何准备项目和简历][8]  
 
-虚拟机：  VMware、centos
+[互联网岗位选择精讲：Java后端、大数据开发、算法][9]
 
-虚拟机ssh:  SecureCRT（在windows上链接多个虚拟机）
+[2020年春招指南，解密BAT大厂招聘流程与套路][10]
 
-修改源码：idea
+[互联网薪资大揭秘：30w以上的公司有哪些？][11]
 
-查看各种数据：notepad++（安装NppFTP插件，修改虚拟机中配置文件，好用的一批）
+#### Java面试书籍重点标注
 
-所有软件下载地址：
+[《Java编程思想》][12]
 
-链接：https://pan.baidu.com/s/18wrxmczkzgoNE2WTZwjPSA 
-提取码：73q8 
+[《深入理解Java虚拟机》][13]
+
+[《实战Java高并发程序设计》][14]
+
+[《Redis设计与实现》][15]
+
+[《Redis深度历险：核心原理与应用实践》][16]
+
+[《MySQL技术内幕》、《高性能MySQL》][17]
 
 
-### 项目架构
-图片来自于卡夫卡公司
-![](http://ww1.sinaimg.cn/large/005BOtkIly1fyccyao7f3j30op0ee10a.jpg)
+#### 大数据面试书籍重点标注
 
-### 集群资源规划
+[《Hadoop权威指南》][18]
 
-利用VMware虚拟机+centos完成，基本要求笔记本电脑内存在8G以上。
-最低要去克隆出3台虚拟机，每台给2G内存。
-![](http://ww1.sinaimg.cn/large/005BOtkIly1fycdbmkr58j30m20ckq81.jpg)
+[《Spark大数据处理技术》][19]
 
-### 项目实现步骤
+[《从PAXOS到Zookeeper分布式一致性原理与实践》][20]
 
-1、第一章：项目需求分析与设计
+#### 问答系列
 
-https://www.willxu.xyz/2018/12/19/project/1%E3%80%81%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82/
+[大数据开发和Java后端可以同时兼顾吗][21]
 
-2、第二章：linux环境准备与设置
+[简历上的大数据项目怎么准备][22]
 
-https://www.willxu.xyz/2018/12/19/project/2%E3%80%81linux%E9%85%8D%E7%BD%AE/
 
-3、第三章：Hadoop2.X分布式集群部署
+#### 其他系列
 
-https://www.willxu.xyz/2018/12/19/project/3%E3%80%81hadoop%E9%83%A8%E7%BD%B2/
+[如何参加阿里巴巴天池算法大赛][23]
 
-4、第四章：Zookeeper分布式集群部署
+### 大数据项目
 
-https://www.willxu.xyz/2018/12/29/project/4%E3%80%81zk%E9%83%A8%E7%BD%B2/
+[项目名称：基于Spark2.x新闻网大数据实时分析可视化系统项目][24]
 
-5、第五章：hadoop的高可用配置（HA）
 
-https://www.willxu.xyz/2018/12/29/project/5%E3%80%81ha%E5%AE%9E%E7%8E%B0/
-
-6、第六章：hadoop的HA下的高可用HBase部署
-
-https://www.willxu.xyz/2018/12/30/project/6%E3%80%81hbase%E9%83%A8%E7%BD%B2/
-
-7、第七章：Kafka简介和分布式部署
-
-https://www.willxu.xyz/2019/01/01/project/7%E3%80%81kafka%E9%83%A8%E7%BD%B2/
-
-8、第八章：Flume简介和分布式部署
-
-https://www.willxu.xyz/2019/01/01/project/8%E3%80%81flume%E9%83%A8%E7%BD%B2/
-
-9、第九章：Flume源码修改与HBase+Kafka集成
-
-https://www.willxu.xyz/2019/01/20/project/9%E3%80%81flume-hbase-kfk%E9%85%8D%E7%BD%AE/
-
-10、第十章：Flume+HBase+Kafka集成全流程测试
-
-https://www.willxu.xyz/2019/01/20/project/10%E3%80%81flume-hbase-kfk%E8%81%94%E8%B0%83/
-
-11、第十一章：mysql、Hive安装与集成
-
-https://www.willxu.xyz/2019/01/22/project/11%E3%80%81mysql-hive/
-
-12、第十二章：Hive与Hbase集成
-
-https://www.willxu.xyz/2019/01/23/project/12%E3%80%81hive-hbase/
-
-13、第十三章：Cloudera HUE大数据可视化分析
-
-https://www.willxu.xyz/2019/01/26/project/13%E3%80%81hue/
-
-14、第十四章：Spark2.X集群安装与spark on yarn部署
-
-https://www.willxu.xyz/2019/01/30/project/14%E3%80%81spark%20on%20yarn/
-
-15、第十五章：基于IDEA环境下的Spark2.X程序开发
-
-https://www.willxu.xyz/2019/01/30/project/15%E3%80%81spark-idea/
-
-16、第十六章：Spark Streaming实时数据处理
-
-https://www.willxu.xyz/2019/02/03/project/16%E3%80%81spark-streaming1/
-
-### 项目配套视频
-
-链接：https://pan.baidu.com/s/1Q-XGRjRwyVa0UFSzfbjFdQ 
-
-提取码：qart 
-
-### 群内有更多相关电子书籍和1000G网盘资料
-欢迎加入大数据交流群。
+### 欢迎加入Java大数据交流群
+群内有大量电子书籍和1T网盘资料。
 QQ群号码：528040253
-
 ![](http://ww1.sinaimg.cn/large/005BOtkIly1g6nnx2yo4jj306m06ymx4.jpg)
-![](http://ww1.sinaimg.cn/large/005BOtkIly1g6no2gfsumj30mq0if75o.jpg)
-![uLIqN4.png](https://s2.ax1x.com/2019/10/12/uLIqN4.png)
+
+
+  [1]: https://www.nowcoder.com/discuss/240064
+  [2]: https://www.nowcoder.com/discuss/349246
+  [3]: https://www.nowcoder.com/discuss/358915
+  [4]: https://www.nowcoder.com/discuss/282475
+  [5]: https://www.nowcoder.com/discuss/246467
+  [6]: https://www.nowcoder.com/discuss/257726
+  [7]: https://www.bilibili.com/video/av69142260
+  [8]: https://www.bilibili.com/video/av69803420
+  [9]: https://www.bilibili.com/video/av76506475
+  [10]: https://www.bilibili.com/video/av76712716
+  [11]: https://www.bilibili.com/video/av79472914
+  [12]: https://www.bilibili.com/video/av74679700
+  [13]: https://www.bilibili.com/video/av69406526
+  [14]: https://www.bilibili.com/video/av70081453
+  [15]: https://www.bilibili.com/video/av70680254
+  [16]: https://www.bilibili.com/video/av70833894
+  [17]: https://www.bilibili.com/video/av79835246
+  [18]: https://www.bilibili.com/video/av71602819
+  [19]: https://www.bilibili.com/video/av80592909
+  [20]: https://www.bilibili.com/video/av82168374
+  [21]: https://www.bilibili.com/video/av77087822
+  [22]: https://www.bilibili.com/video/av78729813
+  [23]: https://www.bilibili.com/video/av81174640
+  [24]: https://github.com/TALKDATA/JavaBigData/blob/master/news-project.md
