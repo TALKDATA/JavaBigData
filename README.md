@@ -73,6 +73,10 @@ TALKDATA，985硕士，2017年开始，零基础非科班转行大数据开发�
 
 [项目名称：基于Spark2.x新闻网大数据实时分析可视化系统项目][24]
 
+### 招聘信息汇总贴
+
+[2020年各大公司招聘信息（春招、实习、补招等）][25]
+
 
 ### 欢迎加入Java大数据交流群
 
@@ -106,3 +110,4 @@ QQ群号码：528040253
   [22]: https://www.bilibili.com/video/av78729813
   [23]: https://www.bilibili.com/video/av81174640
   [24]: https://github.com/TALKDATA/JavaBigData/blob/master/news-project.md
+  [25]: https://github.com/TALKDATA/JavaBigData/blob/master/HRInfo.md

@@ -1,27 +1,24 @@
 ﻿# 2020年春招各大公司招聘信息（持续更新......）
 
-update：2020年1月9日21:41:31
-
+**update：2020年1月9日21:41:31**
 
 注意：信息来源参考牛客，这里只是简单汇总，请自行甄别。
-
 大概是按照招聘发布时间顺序汇总
+
+
+
+----------
+
 
 ## 下面包括春招、补录、21届实习
 
 ### VIVO2020春招
-投递链接：https://hr.vivo.com/campus
-截止时间：2月29日12:00
 https://www.nowcoder.com/discuss/360785?type=0&order=0&pos=35&page=1
 
 ### ThoughtWorks补录
-投递链接：https://join.thoughtworks.cn/
-截止时间：2020.3月
 https://www.nowcoder.com/discuss/358055?type=0&order=0&pos=17&page=1
 
 ### 用友2020春招
-校园招聘：http://career.yonyou.com/
-截止时间：2月19日
 https://www.nowcoder.com/discuss/361223?type=0&order=0&pos=12&page=2
 
 ### 寒武纪补招
@@ -41,6 +38,10 @@ https://www.nowcoder.com/discuss/348236?type=7&order=0&pos=56&page=5
 
 ### 【百度秋招补招】智能生活事业群组-众多岗位来袭！
 https://www.nowcoder.com/discuss/360968?type=7&order=0&pos=68&page=1
+
+
+----------
+
 
 ## 下面主要是面向2021届实习招聘
 
