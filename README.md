@@ -81,9 +81,8 @@ TALKDATA，985硕士，2017年开始，零基础非科班转行大数据开发�
 ### 欢迎加入Java大数据交流群
 
 群内有大量电子书籍和1T网盘资料。
-QQ群号码：528040253
-
-![](http://ww1.sinaimg.cn/large/005BOtkIly1g6nnx2yo4jj306m06ymx4.jpg)
+QQ群号码：965321299
+[![Java-2020.png](https://i.postimg.cc/Pr4z315C/Java-2020.png)](https://postimg.cc/rKDrz0WT)
 
 
   [1]: https://www.nowcoder.com/discuss/240064

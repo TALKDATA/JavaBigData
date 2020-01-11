@@ -1,6 +1,6 @@
 ﻿# 2020年春招各大公司招聘信息（持续更新......）
 
-**update：2020年1月9日21:41:31**
+**update：2020年1月11日12:39:50**
 
 注意：信息来源参考牛客，这里只是简单汇总，请自行甄别。
 大概是按照招聘发布时间顺序汇总
@@ -39,6 +39,17 @@ https://www.nowcoder.com/discuss/348236?type=7&order=0&pos=56&page=5
 ### 【百度秋招补招】智能生活事业群组-众多岗位来袭！
 https://www.nowcoder.com/discuss/360968?type=7&order=0&pos=68&page=1
 
+### 【阿里巴巴-淘宝2020春招20应届或者21届实习】面向所有研发岗招聘
+https://www.nowcoder.com/discuss/361377?type=0&order=0&pos=6&page=1
+
+### 2020年淘宝消息平台春季招聘-20届春招、21届实习
+https://www.nowcoder.com/discuss/361618?type=0&order=0&pos=25&page=1
+
+### 【搜狐】【校招】部门直招ing-日常实习、实习转正、春招
+https://www.nowcoder.com/discuss/361361
+
+### 【国企】【HR直推】光大科技2020春招开始！支持线上面试！
+https://www.nowcoder.com/discuss/358457?type=0&order=0&pos=55&page=2
 
 ----------
 
