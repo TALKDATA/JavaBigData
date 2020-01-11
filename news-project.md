@@ -94,7 +94,7 @@ Hadoop2.x、Zookeeper、Flume、Hive、Hbase、Kafka、Spark2.x、SparkStreaming
 ### 群内有更多相关电子书籍和1000G网盘资料
 欢迎加入大数据交流群。
 QQ群号码：965321299
-[![Java-2020.png](https://i.postimg.cc/Pr4z315C/Java-2020.png)](https://postimg.cc/rKDrz0WT)
+![](https://ftp.bmp.ovh/imgs/2020/01/2c05f26fe8c5546d.png)
 ![uLIqN4.png](https://s2.ax1x.com/2019/10/12/uLIqN4.png)
 
 
