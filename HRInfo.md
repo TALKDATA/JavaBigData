@@ -1,6 +1,6 @@
 ﻿# 2020年春招各大公司招聘信息（持续更新......）
 
-**update：2020年1月12日21:43:24**
+**update：2020年1月13日20:49:43**
 
 注意：信息来源参考牛客，这里只是简单汇总，请自行甄别。
 大概是按照招聘发布时间顺序汇总
@@ -11,6 +11,17 @@
 
 
 ## 下面包括春招、补录、21届实习
+
+### 【CVTE】21届实习生内推
+https://www.nowcoder.com/discuss/362006?type=0&order=0&pos=77&page=1
+
+### 【春招】Shopee研发中心2020春季校招开启！速抢！
+https://www.nowcoder.com/discuss/362029?type=0&order=0&pos=43&page=1
+
+### 【字节跳动】
+https://www.nowcoder.com/discuss/356297?type=0&order=0&pos=50&page=1
+https://www.nowcoder.com/discuss/361626?type=0&order=0&pos=51&page=1
+https://www.nowcoder.com/discuss/361964?type=0&order=0&pos=87&page=1
 
 ### 【百度】客户端/前端/后端/数据招人-实习、校招、社招
 https://www.nowcoder.com/discuss/361514?type=0&order=0&pos=109&page=1
