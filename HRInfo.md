@@ -1,6 +1,6 @@
 ﻿# 2020年春招各大公司招聘信息（持续更新......）
 
-**update：2020年1月13日20:49:43**
+**update：2020年1月17日21:19:33**
 
 注意：信息来源参考牛客，这里只是简单汇总，请自行甄别。
 大概是按照招聘发布时间顺序汇总
@@ -11,6 +11,27 @@
 
 
 ## 下面包括春招、补录、21届实习
+
+### 【亚马逊】软件工程师 (SDE II/SDE III)
+https://www.nowcoder.com/discuss/362803?type=0&order=0&pos=111&page=1
+
+### 【阿里】北京招20、21年毕业的实习/校招生
+https://www.nowcoder.com/discuss/362551?type=0&order=0&pos=92&page=1
+
+### 【eBay 智能营销事业部】 - 软件开发实习生
+https://www.nowcoder.com/discuss/362874?type=0&order=0&pos=65&page=1
+
+### 【shopee】春招开启
+https://www.nowcoder.com/discuss/362129?type=0&order=0&pos=32&page=1
+
+### 【BIGO】2021届实习招聘内推
+https://www.nowcoder.com/discuss/362915?type=0&order=0&pos=8&page=0
+
+### 【百度推荐策略部（百度两大核心部门之一）】社招 + 20年毕业生（校招补招）+ 21年毕业实习生
+https://www.nowcoder.com/discuss/362298?type=0&order=0&pos=38&page=0
+
+### 【百度】校招补录+春季实习内推
+https://www.nowcoder.com/discuss/362216?type=0&order=0&pos=43&page=1
 
 ### 【CVTE】21届实习生内推
 https://www.nowcoder.com/discuss/362006?type=0&order=0&pos=77&page=1
@@ -41,7 +62,7 @@ https://www.nowcoder.com/discuss/346355?type=0&order=0&pos=15&page=3
 ### 【海康威视】春招来袭~~(20届校招、21届实习、社招)
 https://www.nowcoder.com/discuss/361841?type=0&order=0&pos=14&page=1
 
-### 【2020春招】广州速游春招
+### 【广州速游】春招
 https://www.nowcoder.com/discuss/361662?type=0&order=0&pos=10&page=1
 
 ### 【VIVO】2020春招
@@ -80,7 +101,7 @@ https://www.nowcoder.com/discuss/361618?type=0&order=0&pos=25&page=1
 ### 【搜狐】【校招】部门直招ing-日常实习、实习转正、春招
 https://www.nowcoder.com/discuss/361361
 
-### 【国企】【HR直推】光大科技2020春招开始！支持线上面试！
+### 【国企】【光大科技】2020春招开始！支持线上面试！
 https://www.nowcoder.com/discuss/358457?type=0&order=0&pos=55&page=2
 
 ----------
