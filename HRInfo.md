@@ -1,16 +1,27 @@
 ﻿# 2020年春招各大公司招聘信息（持续更新......）
 
-**update：2020年1月17日21:19:33**
+**update：2020年1月27日22:00:45**
 
 注意：信息来源参考牛客，这里只是简单汇总，请自行甄别。
 大概是按照招聘发布时间顺序汇总
 
-
+### 更新不易，点赞支持！
 
 ----------
 
-
 ## 下面包括春招、补录、21届实习
+
+### 【58同城】部门直推-校招+社招-算法和后端
+https://www.nowcoder.com/discuss/362453?type=0&order=0&pos=140&page=1
+
+### 【京东】招聘实习生可转正-前端/后端开发工程师
+https://www.nowcoder.com/discuss/363081?type=0&order=0&pos=104&page=1
+
+### 【网易游戏】2020年春招内推（互娱，雷火事业群）大量HC
+https://www.nowcoder.com/discuss/361032?type=0&order=0&pos=64&page=1
+
+### 【头条实习内推】自助查进度 大数据开发实习生（可转正）- 商业变现 
+https://www.nowcoder.com/discuss/363813?type=0&order=0&pos=14&page=0
 
 ### 【亚马逊】软件工程师 (SDE II/SDE III)
 https://www.nowcoder.com/discuss/362803?type=0&order=0&pos=111&page=1
@@ -103,11 +114,6 @@ https://www.nowcoder.com/discuss/361361
 
 ### 【国企】【光大科技】2020春招开始！支持线上面试！
 https://www.nowcoder.com/discuss/358457?type=0&order=0&pos=55&page=2
-
-----------
-
-
-## 下面主要是面向2021届实习招聘
 
 ### 【百度智能云计算部部门】实习
 https://www.nowcoder.com/discuss/356380?type=7&order=0&pos=35&page=1
