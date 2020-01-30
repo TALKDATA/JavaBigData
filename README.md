@@ -61,27 +61,29 @@ TALKDATA，985硕士，2017年开始，零基础非科班转行大数据开发�
 
 [《现代操作系统》][20]
 
+[《计算机网络：自顶向下》][21]
+
 **大数据面试书籍重点标注**
 
-[《Hadoop权威指南》][21]
+[《Hadoop权威指南》][22]
 
-[《Spark大数据处理技术》][22]
+[《Spark大数据处理技术》][23]
 
-[《从PAXOS到Zookeeper分布式一致性原理与实践》][23]
+[《从PAXOS到Zookeeper分布式一致性原理与实践》][24]
 
 **问答系列**
 
-[大数据开发和Java后端可以同时兼顾吗][24]
+[大数据开发和Java后端可以同时兼顾吗][25]
 
-[简历上的大数据项目怎么准备][25]
+[简历上的大数据项目怎么准备][26]
 
 **其他系列**
 
-[如何参加阿里巴巴天池算法大赛][26]
+[如何参加阿里巴巴天池算法大赛][27]
 
 ### 大数据项目
 
-[项目名称：基于Spark2.x新闻网大数据实时分析可视化系统项目][27]
+[项目名称：基于Spark2.x新闻网大数据实时分析可视化系统项目][28]
 
 
 ### 欢迎加入Java大数据交流群
@@ -92,13 +94,13 @@ QQ群号码：965321299
 ![](https://ftp.bmp.ovh/imgs/2020/01/2c05f26fe8c5546d.png)
 
 
-  [1]: https://github.com/TALKDATA/JavaBigData/blob/master/HRInfo.md
-  [2]: https://www.nowcoder.com/discuss/240064
-  [3]: https://www.nowcoder.com/discuss/349246
-  [4]: https://www.nowcoder.com/discuss/358915
-  [5]: https://www.nowcoder.com/discuss/282475
-  [6]: https://www.nowcoder.com/discuss/246467
-  [7]: https://www.nowcoder.com/discuss/257726
+  [1]: https://zhuanlan.zhihu.com/p/102413956
+  [2]: https://zhuanlan.zhihu.com/p/80915300
+  [3]: https://zhuanlan.zhihu.com/p/94559656
+  [4]: https://zhuanlan.zhihu.com/p/99967602
+  [5]: https://zhuanlan.zhihu.com/p/84149021
+  [6]: https://zhuanlan.zhihu.com/p/81291495
+  [7]: https://zhuanlan.zhihu.com/p/82181294
   [8]: https://www.bilibili.com/video/av82673014
   [9]: https://www.bilibili.com/video/av69142260
   [10]: https://www.bilibili.com/video/av69803420
@@ -112,10 +114,11 @@ QQ群号码：965321299
   [18]: https://www.bilibili.com/video/av70833894
   [19]: https://www.bilibili.com/video/av79835246
   [20]: https://www.bilibili.com/video/av83003815
-  [21]: https://www.bilibili.com/video/av71602819
-  [22]: https://www.bilibili.com/video/av80592909
-  [23]: https://www.bilibili.com/video/av82168374
-  [24]: https://www.bilibili.com/video/av77087822
-  [25]: https://www.bilibili.com/video/av78729813
-  [26]: https://www.bilibili.com/video/av81174640
-  [27]: https://github.com/TALKDATA/JavaBigData/blob/master/news-project.md
+  [21]: https://www.bilibili.com/video/av84108011
+  [22]: https://www.bilibili.com/video/av71602819
+  [23]: https://www.bilibili.com/video/av80592909
+  [24]: https://www.bilibili.com/video/av82168374
+  [25]: https://www.bilibili.com/video/av77087822
+  [26]: https://www.bilibili.com/video/av78729813
+  [27]: https://www.bilibili.com/video/av81174640
+  [28]: https://github.com/TALKDATA/JavaBigData/blob/master/news-project.md
