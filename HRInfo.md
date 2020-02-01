@@ -1,15 +1,30 @@
 ﻿# 2020年春招各大公司招聘信息（持续更新......）
 
-**update：2020年1月27日22:00:45**
+**update：2020年2月1日20:43:36**
 
 注意：信息来源参考牛客，这里只是简单汇总，请自行甄别。
-大概是按照招聘发布时间顺序汇总
+大概是按照招聘发布时间顺序汇总，有些招聘有截止日期请自行注意。
 
 ### 更新不易，点赞支持！
 
 ----------
 
 ## 下面包括春招、补录、21届实习
+
+### 【字节跳动】 校招/社招/实习  数据平台组部门直招
+https://www.nowcoder.com/discuss/363916?type=7&order=3&pos=30&page=1
+
+### 【阿里巴巴】CBU无线提前春招java/android/iOS
+https://www.nowcoder.com/discuss/364007?type=7&order=3&pos=25&page=1
+
+### 【阿里巴巴】急招前端工程师（实习、校招、社招均可）
+https://www.nowcoder.com/discuss/364086?type=7&order=3&pos=18&page=1
+
+### 【图森未来】前后端、算法岗，内推实习
+https://www.nowcoder.com/discuss/364105?type=7&order=3&pos=14&page=1
+
+### 【Jerry Ai】 软件工程师招聘, 含实习岗（远程/多伦多）
+https://www.nowcoder.com/discuss/364158?type=7&order=3&pos=10&page=0
 
 ### 【58同城】部门直推-校招+社招-算法和后端
 https://www.nowcoder.com/discuss/362453?type=0&order=0&pos=140&page=1
