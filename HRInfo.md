@@ -1,15 +1,67 @@
 ﻿# 2020年春招各大公司招聘信息（持续更新......）
 
-**update：2020年2月1日20:43:36**
+**update：2020年2月7日21:42:09**
 
 注意：信息来源参考牛客，这里只是简单汇总，请自行甄别。
 大概是按照招聘发布时间顺序汇总，有些招聘有截止日期请自行注意。
 
-### 更新不易，点赞支持！
+### 更新不易，点赞支持！收藏可以跟踪最新招聘动态！
+### 欢迎关注公众号：TALKDATA   获取更多面试技巧！
 
 ----------
 
 ## 下面包括春招、补录、21届实习
+
+### 【Deeproute.ai】自动驾驶企业： 内推   2020-02-07
+https://www.nowcoder.com/discuss/364902?type=7&order=3&pos=86&page=1
+
+### 【北京陌陌】实习招聘 技术岗 产品岗    2020-02-07
+https://www.nowcoder.com/discuss/364862?type=7&order=0&pos=151&page=1
+
+### 【阿里云计算有限公司】阿里云-弹性计算-研发工程师JAVA    2020-02-07
+https://www.nowcoder.com/discuss/365054?type=7&order=0&pos=134&page=1
+
+### 【阿里妈妈】淘宝联盟 21届暑期实习生 开始啦   2020-02-07
+https://www.nowcoder.com/discuss/364820?type=7&order=0&pos=107&page=1
+
+### 【阿里云】智能存储/高性能计算2020实习生招聘吧！   2020-02-07
+https://www.nowcoder.com/discuss/365019?type=7&order=0&pos=93&page=2
+
+### 【TCL】2020届校招启动，400余岗位等你来！   2020-02-07
+https://www.nowcoder.com/discuss/365063?type=7&order=0&pos=73&page=1
+
+### 【淘系】 2021届春招内推 新零售技术事业群-淘系技术部 技术&非技术   2020-02-07
+https://www.nowcoder.com/discuss/365108?type=7&order=0&pos=55&page=1
+
+### 【三七互娱】校招和社招岗位   2020-02-07
+https://www.nowcoder.com/discuss/365171?type=7&order=0&pos=34&page=1
+
+### 后端开发实习岗-Java-自动驾驶基础架构部  上海   2020-02-07
+https://www.nowcoder.com/discuss/358568?type=7&order=0&pos=17&page=1
+
+### 【微软苏州】新产品研发团队招人啦！     2020-02-07
+https://www.nowcoder.com/discuss/365059?type=7&order=0&pos=15&page=1
+
+### 【猿辅导】社招or20届 可内推各种工程师   2020-02-07
+https://www.nowcoder.com/discuss/365035?type=7&order=0&pos=13&page=1
+
+### 【京东】京东零售-技术与数据中台实习生招聘   2020-02-07
+https://www.nowcoder.com/discuss/364913?type=0&order=0&pos=14&page=1
+
+### 【博思软件】春招线上通道正常开启，前端/JAVA/ 大数据/算法/软件测试均有岗位需求哦！ 2020-02-04 
+https://www.nowcoder.com/discuss/364394?type=7&order=0&pos=91&page=1
+
+### 【阿里巴巴电商板块新兴的核心业务】2021校招启动   2020-02-04 
+https://www.nowcoder.com/discuss/364592?type=0&order=0&pos=100&page=0
+
+### 【阿里巴巴供应链平台事业部】2021届暑期实习生招聘（春招）          2020-02-04 
+https://www.nowcoder.com/discuss/364611?type=0&order=0&pos=48&page=0
+
+### 【OPPO内推】2020届应届生 软件类，硬件类，产品类，综合职能类，营销类等   2020-02-04 
+https://www.nowcoder.com/discuss/364442?type=0&order=0&pos=9&page=3
+
+### 【Grab内推-国际互联网大厂】社招&校招都有！不加班！  2020-02-04 
+https://www.nowcoder.com/discuss/337566?type=7&order=0&pos=68&page=2
 
 ### 【字节跳动】 校招/社招/实习  数据平台组部门直招
 https://www.nowcoder.com/discuss/363916?type=7&order=3&pos=30&page=1
