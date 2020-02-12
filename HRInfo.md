@@ -1,6 +1,6 @@
 ﻿# 2020年春招各大公司招聘信息（持续更新......）
 
-**update：2020年2月7日21:42:09**
+**update：2020年2月12日21:00:56**
 
 注意：信息来源参考牛客，这里只是简单汇总，请自行甄别。
 大概是按照招聘发布时间顺序汇总，有些招聘有截止日期请自行注意。
@@ -11,6 +11,18 @@
 ----------
 
 ## 下面包括春招、补录、21届实习
+
+### 【微信】小程序技术团队招聘暑期实习   2020-02-12
+https://www.nowcoder.com/discuss/366099?type=7&order=3&pos=114&page=1
+
+### 【南京青书】春招提前批！待遇优厚，还有非技术岗~在家也能面试哦    2020-02-12
+https://www.nowcoder.com/discuss/366310?type=7&order=3&pos=37&page=1
+
+### 【科大讯飞】科大讯飞2020届校园招聘春季补录内推来啦！   2020-02-12
+https://www.nowcoder.com/discuss/366335?type=7&order=3&pos=24&page=0
+ 
+###  【奇安信】2020春招&实习内推    2020-02-12
+https://www.nowcoder.com/discuss/366347?type=7&order=3&pos=17&page=1
 
 ### 【Deeproute.ai】自动驾驶企业： 内推   2020-02-07
 https://www.nowcoder.com/discuss/364902?type=7&order=3&pos=86&page=1
