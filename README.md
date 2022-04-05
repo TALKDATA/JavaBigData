@@ -1,5 +1,5 @@
 ﻿# TALKDATA分享历程
-![分享历程](./image/TALKDATA_share.png ''图片title'')
+![image](image/TALKDATA_share.png)
 
 ## 学习路线
 
