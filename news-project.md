@@ -92,8 +92,9 @@ Hadoop2.x、Zookeeper、Flume、Hive、Hbase、Kafka、Spark2.x、SparkStreaming
 提取码：qart 
 
 ### 群内有更多相关电子书籍和1000G网盘资料
-欢迎加入大数据交流群。
-QQ群号码：965321299
+本QQ群用于求职交流、技术探讨以及TALKDATA最新面经动态分享等。
+
+![image](image/qqqun.jpg)
 
 ![](https://ftp.bmp.ovh/imgs/2020/01/2c05f26fe8c5546d.png)
 
